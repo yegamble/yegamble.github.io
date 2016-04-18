@@ -1,0 +1,68 @@
+body {
+				background-color: #1f1f1f;
+				color: #eee;
+}
+
+h1,h2,h3,h4,a,p {
+	font-family: 'Open Sans', sans-serif;
+	font-weight:400;
+}
+
+a {
+	color: #eee;
+}
+
+a:hover{
+	color: #bbb;
+}
+
+#wrapper{
+
+	max-width: 450px;	
+	min-width: 450px;
+	margin:0 auto;
+	text-align: center;
+
+}
+
+#title h1{
+
+	font-size:55px;
+	margin-bottom: -10;
+}
+
+#icon-links{
+
+	font-size: 40px;
+}
+
+#links{
+
+	text-align:left;
+}
+
+.mark-text{
+	color:red;
+}
+
+.mark-text:hover{
+	color:gray;
+}
+
+.notice{
+	background-color: yellow;
+	color: black;
+	padding: 5px;
+}
+
+#backlink {
+	font-size: 24px;
+}
+
+.sec-page{
+	font-size: 24px;
+}
+
+.secemailform{
+	text-align:left;
+}
