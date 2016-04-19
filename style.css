@@ -18,7 +18,7 @@ a:hover{
 
 #wrapper{
 
-	max-width: 450px;	
+	max-width: 500px;	
 	min-width: 450px;
 	margin:0 auto;
 	text-align: center;
@@ -65,4 +65,8 @@ a:hover{
 
 .secemailform{
 	text-align:left;
+}
+
+.highlight{
+
 }
