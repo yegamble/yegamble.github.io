@@ -5,10 +5,24 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
 		<link rel="stylesheet" type="text/css" href="style.css">
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+
+		<script src="https://kbpgp-odeza.rhcloud.com/kbpgp-2.0.8.js">
+			
+			var params = {
+			  encrypt_for: chuck,
+			  sign_with:   alice,
+			  msg:         "Hey Chuck - my bitcoin address is 1alice12345234..."
+			};
+
+			kbpgp.box(params, function(err, result_string, result_buffer) {
+			  console.log(err, result_string, result_buffer);
+			});
+			
+		</script>
 	</head>
 	<div id="wrapper">
 	<div id="backlink" align="left"><a href="/"><i class="fa fa-angle-double-left" aria-hidden="true"> </i>Home</a></div>
-	<p align="left" class="notice"><strong>NOTICE:</strong> You are about to send an encrypted message. To ensure that your identity and the contents of your communication remain secret, please check if the ssl icon is displayed next to the url in your browser. If not, use <a href="https://keybase.io/yegamble/key.asc" class="mark-text">my pgp key</a> to encrypt your message manually and send it to <a href="mailto:yegamble@gmail.com" target="_blank" class="mark-text">yegamble@gmail.com.</a></p>
+	<p align="left" class="notice"><strong>NOTICE:</strong> You are about to send an encrypted message. To ensure that your identity and the contents of your communication remain secret, please check if the ssl icon is displayed next to the url in your browser. If not, use <a href="https://keybase.io/yegamble/key.asc" class="mark-text">my pgp key</a> to encrypt your message manually and send it to <a href="mailto:yegamble@gmail.com" target="_blank" class="mark-text">yegamble@gmail.com</a>.</p>
 
 	<div id="title" class="sec-page"><i class="fa fa-lock" aria-hidden="true"></i> Secure Contact Form</div><br>
 	<div id="secure form" class="secemailform" align="left">
