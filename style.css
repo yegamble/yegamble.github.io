@@ -115,6 +115,7 @@ a:hover{
   position: absolute;
   z-index: 1000;
   width: 98%;
+  min-width: 300px;
   background: #1f1f1f;
   border-bottom: 1px solid #aaa;
   border-radius: 4px;
@@ -124,7 +125,9 @@ a:hover{
 }
 @media (min-width: 32em) {
 
-.modal-box { width: 35%; }
+.modal-box { width: 35%; 
+	
+}
 }
 
 .modal-box header,
