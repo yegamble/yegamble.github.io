@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-EXTREMELY IMPORTANT: If you are requesting a key signature and your current physical and/or digital (by VPN or proxy) location is NOT within Canada, The United States of America, The United Kingdom, Germany, Australia, or New Zealand, it is required that you encrypt all initial and continuing communication regarding key signing. Encryption is also required if you are utilizing any stationary or mobile connection that is (or has ever been) used for national civil or defence purposes, regardless of your location within or outside of the administered borders of the mentioned locations.
+EXTREMELY IMPORTANT: If you are requesting a key signature and your current physical and/or digital (by VPN or proxy) location is NOT within Canada, The United Kingdom, Germany, Australia, or New Zealand, it is required that you encrypt all initial and continuing communication regarding key signing. Encryption is also required if you are utilizing any stationary or mobile connection that is (or has ever been) used for national civil or defence purposes, regardless of your location within or outside of the administered borders of the mentioned locations.
 
 This message has been signed https://yosefgamble.com/signed.txt. Please verify that the signature is valid with my public key.
 
@@ -60,23 +60,21 @@ Send the email to: yosef.gamble@protonmail.com, and encrypt using THIS KEY ONLY.
 Copies of verified government documents will be destroyed once the investigation is complete. In order to mitigate identity fraud by a third party, you may black out your social security number, passport number, and/or driver’s licence number. Because we aren’t meeting face-to-face, the photo isn’t necessary, but it will help expedite the process to verify your identity. I’ll remain in contact with you if too much information is removed from government issued identification, or if your scan is unclear. Please encrypt your email and scans to ensure that I am the only person who sees your information. All unencrypted copies of information will be destroyed.
 
 I currently do not support PayPal verification.
-
-Inspired by Aaron Toponce.
 -----BEGIN PGP SIGNATURE-----
 Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-wsFcBAABCgAGBQJgj9WeAAoJELSwWf0T0foNfVAP/iTnIdnS1UObs4pojQsWGrNX
-+6E0FqlQq71sct83DaGCgLnxLxoiPDRK2ivGgN0aRzvmJSZmhUJGy76nBe7GPrI7
-R6qr9f/VqzVI6McX+a5Xfltmay5jFkgzX+juLDPdKlHUT/Ys00C5YaccLW314IUZ
-+8WyKugBaK74P9rJ8WuizTJUDBicqGt0FOEt52xyuo3aXAkrEqyG9m0YM4aJvbd0
-ht0wGyTUR4aeY4f9jfiAxao94GTW2cMGDfz+NVMxZu1Ufp/e5eHOE37lXLlbSp47
-J9jPjOLIPkQz2cY9ZNk4l8ruJiRYyxyuJR8yJ23Mv0lt30mQCAVaL2tMbgPfF6C3
-tofRP5dLKbFNHrwuB9746el22sQ+oR9JGgcJ4DD3gjwNay6ftwDPPz8YlOxOEeJx
-J6C0OFAj771XSbxo9X1Qf8ArTKqbEzCsg/3gFj+lCPaRY9HYE9VltM2mOCZP8ab+
-s/Crb+oqntn3rg2ODXkCrx1L2TlqagmFtzAM5Qr5l19wmIYAiY48ScMHeBxXtslJ
-vMuXB51FAvIyVYcvX7s3UZ+bHZ5/GQTqRlYAgu4J0dLm7fk5B5daKiphTuFI3wcD
-y0phtJp0gDLwMB2nH0FofjHrtElrNN9gcgeZoQ2Bn5onSsSkTsEhqlRw7plwwIOp
-o54r4rwGVsvgYFgSVNd+
-=5N/q
+wsFcBAABCgAGBQJg/BftAAoJELSwWf0T0foNK2wP/icdLxdH5RNb1Wr5SgMi5LnZ
+56Fau6Yl+b6ewjOrOQmMhUaMx8D0kDltSkV5i9ZH3eLoMctgbMbdraOuC0b005H2
+ArTljZFN74IYC3c6W4KfNY7koprKKwwfQswqbmwV7NqGrBb8Oy4zfWhlcGiH5f0T
+2MY2WBW66kVpmNS7OkOPgcxsXN1/3BYdTQO3aff7VQ9UPbfohDuJ1kEOFsXtsVDx
+aTRDCIqyE+7AaCfSEuCEKYZsT8Jp2/sh6gsxwsxBKpyPo2TBN2ry49BuX4ZyzUIl
+m4L1fcrdFnU8ZMZHp3ugUBhacWHwglVYYLgeZRLqH2JzoMLtDp5bYPv4pj1Xh4fl
+mNLY+v5X95wl6QJznEjfDbOep0qBVA8qkekvNsMTwFVQ0fABJ9JuRx54svbr00q2
+xpcMMo+jLpb2kCxLOQdyf5lp5Kb9lLCV6I0IzfQXlc8Uc5bHh0cSxSDnfyJR0oRS
+JxsMmfXnQn0vzJ0C3wxReMfP1TN0kivbEf2Tuk7F8UVeO6ftfx8E2HrNplV8v7SN
+DXcuoC5a8A0lcJY3RijnyYXdbZVYS/OurqRnG7KEFpJ8z9cIsJ1/wa4YbN0c/br1
+JdOgsUUE1gnV9bV34yXO33L5x74LcFgHM6KtSMAKA0wAvOfXcR+mcOHoMQk7KCWe
+Brcw/PuLWi/pbyUrN6I7
+=kMWv
 -----END PGP SIGNATURE-----
