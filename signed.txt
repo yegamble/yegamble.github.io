@@ -1,5 +1,5 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+Hash: SHA512
 
 EXTREMELY IMPORTANT: If you are requesting a key signature and your current physical and/or digital (by VPN or proxy) location is NOT within Canada, The United Kingdom of Great Britain and Northern Ireland, Germany, Australia, New Zealand, or Switzerland, it is required that you encrypt all initial and continuing communication regarding key signing. Encryption is also required if you are utilizing any stationary or mobile connection that is (or has ever been) used for national civil or defence purposes, regardless of your location within or outside of the administered borders of the mentioned locations.
 
@@ -72,18 +72,18 @@ Inspired by Aaron Toponce.
 Version: Cyph
 Comment: https://www.cyph.com
 
-wsFzBAEBCAAGBQJiY8qLACEJEEQrgJaNoezOFiEEKWLlJIi1AqBr8cs7RCuA
-lo2h7M791A/+IvB5mzG1lyqCocKzd/3WE3Mn95VGcgeAWdV2QFuQQKfMnKIh
-LzNMNSKnjVBLCsSIZ6OAKDxb2/jaGF6p7RReszo/qZuKjgYM/4dmWSq88QcR
-0Udu4jh4Ea22heYt0I/qnnvD4xWYlKcLUpXI3gLTCl4WZ9rbM+doyDLTLX3p
-TwLP1vo7Xz7xqBFzzlHHsgEjQpuKqmEFRWAeMN7d/6Itp4vl2fY7u+pOQ0KU
-LPq72g/XrcCPcF3s4QAjzYxHch5zvagDxgLWGDIBcQQKdPWRopCdWlzptiLZ
-/G1AEIDKziozH1Paj3LzaXTn/X3bl9Sd1AWrULSlh4vaCkutZ+3jDUgNWvEE
-1BdHDQXtLRJRaBEsLayYjYNtTmBdAz1uLbwMpboroSv39Bw1zEacbhbdUsJZ
-e4bSAEZ7t02DihN+VxWMOyAV//G9nYF1fDPb3u+ByuRNQRiqtR6TTqDQ3QAz
-LVNoqRIrO0Dmyw5UHlV/h9vpWz+z0NsYQc7oRXUH+Kf1dU/PQvswqjUg1lk7
-aiOPW+MqfzzdXKJ0BXybG29oXyRTAkaH9dx9/B/0BOUJDql/WEt8g1PUuVV5
-rlWKEoyxDRQbNNm54jCEAkfeE854zge2B6a4ibBn2vC5AZDpGTjapvwnCczm
-zrOE7nlUuUk7ydqM3o40Yvam2ZcjJDBD4E0=
-=mXfV
+wsFzBAEBCgAGBQJiY8wWACEJEMxlbw7+ZpXOFiEEJWEGFW0Wi7DcSPFjzGVv
+Dv5mlc7QOg//Tij9hSMK0jAqQmZK7wFmiHFAsMPUYdTqb8QTP5JgJSAyIqoT
+Y/fVkg79tvy+wgWlUWEPM2Z45+5rLZwM2k4kX6pGknhcuiyppF0rRLMomV8t
+rxoIzgJNz3Xa6nbAPVyk2UMsWw6NBXH6GWHyW+p6YgImSABVMNf3IPB9ko5+
++eAaSQtgoSkZvpRNTrJCvibj8OZiwfgZNNWixQb/7y/7WoO1QnVTZ+5tSgW6
+wcuL3Kgt+7Dqv14vsDVxAOLswTcjD/XO2QCaieYprjgoKltXaDPhWcpi6Klu
+821bRPFfpaYP4bhoMgknnmkHOKHiWlAjO4AA+KON6sR6Pdd4N/c3OqyLQZqK
+grf0ohzovnL5jaLgvd1np554b9vVUjdT165zsmqIb0I8LwLc8QgTDztdwPdP
+4x1ZmXSor66P9gTkqBQlznKoLDTtN8/LsujKxkAMwa0QPaHClSaaL/wQuXpA
+atLHGyrarEQUG3m+UbThAS8f9fjpenlIiHHUisP+zsR19hcruX2/da3jf6um
+tl2396y2M7aY+sFbw6/N9NTXIpx1XgDO8Gzq7b93+il06MAn4uE1h1+sbiEZ
+yySCpTaSTyAjM2XpcSG1ag3fydxL4ikeCmM6WfmZoWFz+DCpXnP/vONJ1epz
+166TUzBercZf4oZ+Q1xZDwXTQwu38tVAMds=
+=pyAO
 -----END PGP SIGNATURE-----
