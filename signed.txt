@@ -1,15 +1,16 @@
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
-EXTREMELY IMPORTANT: If you are requesting a key signature and your current physical and/or digital (by VPN or proxy) location is NOT within Canada, The United Kingdom, Germany, Australia, or New Zealand, it is required that you encrypt all initial and continuing communication regarding key signing. Encryption is also required if you are utilizing any stationary or mobile connection that is (or has ever been) used for national civil or defence purposes, regardless of your location within or outside of the administered borders of the mentioned locations.
+EXTREMELY IMPORTANT: If you are requesting a key signature and your current physical and/or digital (by VPN or proxy) location is NOT within Canada, The United Kingdom of Great Britain and Northern Ireland, Germany, Australia, New Zealand, or Switzerland, it is required that you encrypt all initial and continuing communication regarding key signing. Encryption is also required if you are utilizing any stationary or mobile connection that is (or has ever been) used for national civil or defence purposes, regardless of your location within or outside of the administered borders of the mentioned locations.
 
-This message has been signed https://yosefgamble.com/signed.txt. Please verify that the signature is valid with my public key.
+This message has been signed https://yosefgamble.com/signed.txt.Please verify that the signature is valid with my public key.
 
 Disclaimer
 
 By requesting a digital key signature from myself, you understand that open source information is a part of the investigation process required for key signing. Also, you understand that all personal, open source, and private information may be logged and stored digitally for archival purposes. I reserve the right to store collected information by all means necessary in order to protect the integrity of my communications and the Web of Trust. Any persons found to have abused encryption in order to carry out illegal activities will be reported to the proper authorities immediately.
 
 Summary
+
 This policy outlines the basic standards and procedures for key signing. If you are unfamiliar with key signing, please consult this article. The reasons that you would want me to sign your key is up to you. If you are interested, send an email to yosef.gamble@protonmail.com, and encrypt your message using THIS KEY ONLY. I will always take the proper steps to ensure that your message is not intercepted.
 
 Continue below to learn the different identity certifications. For people that I know, I will usually sign your key in person. If I do not know you, you must satisfy the requirements for a casual or positive certification. Your ability to satisfy an approved certification level does not guarantee that your key will be signed.
@@ -29,14 +30,17 @@ Certification Levels
 
 
 Generic Certification
+
 No or very little knowledge of identity. This certification does not pass the minimum set of specifications for key signing.
 
 
 Persona Certification
+
 Weak knowledge of identity and limited personal details such as residency and limited knowledge of associates. This certification does not pass the minimum set of specifications for key signing.
 
 
 Casual Certification
+
 Intermediate knowledge of identity through monetary exchange, personal acquaintance, or referral.
 
 I will sign your key if we meet in person and exchange government-issued identification and key fingerprints if we don't know each other.
@@ -47,6 +51,7 @@ I will sign your key if we cannot meet in person but someone I ultimately trust 
 I will sign your key without meeting in person and without exchanging identification and key fingerprints if I know you very well personally (such as working with you, attending uni with you, family, etc.)
 
 Positive Certification
+
 Strong knowledge of identity and confident about all presented documents and details of key signature requestor.
 
 Positive Certification Method:
@@ -60,21 +65,25 @@ Send the email to: yosef.gamble@protonmail.com, and encrypt using THIS KEY ONLY.
 Copies of verified government documents will be destroyed once the investigation is complete. In order to mitigate identity fraud by a third party, you may black out your social security number, passport number, and/or driver’s licence number. Because we aren’t meeting face-to-face, the photo isn’t necessary, but it will help expedite the process to verify your identity. I’ll remain in contact with you if too much information is removed from government issued identification, or if your scan is unclear. Please encrypt your email and scans to ensure that I am the only person who sees your information. All unencrypted copies of information will be destroyed.
 
 I currently do not support PayPal verification.
------BEGIN PGP SIGNATURE-----
-Version: Keybase OpenPGP v2.1.13
-Comment: https://keybase.io/crypto
 
-wsFcBAABCgAGBQJg/BftAAoJELSwWf0T0foNK2wP/icdLxdH5RNb1Wr5SgMi5LnZ
-56Fau6Yl+b6ewjOrOQmMhUaMx8D0kDltSkV5i9ZH3eLoMctgbMbdraOuC0b005H2
-ArTljZFN74IYC3c6W4KfNY7koprKKwwfQswqbmwV7NqGrBb8Oy4zfWhlcGiH5f0T
-2MY2WBW66kVpmNS7OkOPgcxsXN1/3BYdTQO3aff7VQ9UPbfohDuJ1kEOFsXtsVDx
-aTRDCIqyE+7AaCfSEuCEKYZsT8Jp2/sh6gsxwsxBKpyPo2TBN2ry49BuX4ZyzUIl
-m4L1fcrdFnU8ZMZHp3ugUBhacWHwglVYYLgeZRLqH2JzoMLtDp5bYPv4pj1Xh4fl
-mNLY+v5X95wl6QJznEjfDbOep0qBVA8qkekvNsMTwFVQ0fABJ9JuRx54svbr00q2
-xpcMMo+jLpb2kCxLOQdyf5lp5Kb9lLCV6I0IzfQXlc8Uc5bHh0cSxSDnfyJR0oRS
-JxsMmfXnQn0vzJ0C3wxReMfP1TN0kivbEf2Tuk7F8UVeO6ftfx8E2HrNplV8v7SN
-DXcuoC5a8A0lcJY3RijnyYXdbZVYS/OurqRnG7KEFpJ8z9cIsJ1/wa4YbN0c/br1
-JdOgsUUE1gnV9bV34yXO33L5x74LcFgHM6KtSMAKA0wAvOfXcR+mcOHoMQk7KCWe
-Brcw/PuLWi/pbyUrN6I7
-=kMWv
+Inspired by Aaron Toponce.
+
+-----BEGIN PGP SIGNATURE-----
+Version: Cyph
+Comment: https://www.cyph.com
+
+wsFzBAEBCAAGBQJiY8qLACEJEEQrgJaNoezOFiEEKWLlJIi1AqBr8cs7RCuA
+lo2h7M791A/+IvB5mzG1lyqCocKzd/3WE3Mn95VGcgeAWdV2QFuQQKfMnKIh
+LzNMNSKnjVBLCsSIZ6OAKDxb2/jaGF6p7RReszo/qZuKjgYM/4dmWSq88QcR
+0Udu4jh4Ea22heYt0I/qnnvD4xWYlKcLUpXI3gLTCl4WZ9rbM+doyDLTLX3p
+TwLP1vo7Xz7xqBFzzlHHsgEjQpuKqmEFRWAeMN7d/6Itp4vl2fY7u+pOQ0KU
+LPq72g/XrcCPcF3s4QAjzYxHch5zvagDxgLWGDIBcQQKdPWRopCdWlzptiLZ
+/G1AEIDKziozH1Paj3LzaXTn/X3bl9Sd1AWrULSlh4vaCkutZ+3jDUgNWvEE
+1BdHDQXtLRJRaBEsLayYjYNtTmBdAz1uLbwMpboroSv39Bw1zEacbhbdUsJZ
+e4bSAEZ7t02DihN+VxWMOyAV//G9nYF1fDPb3u+ByuRNQRiqtR6TTqDQ3QAz
+LVNoqRIrO0Dmyw5UHlV/h9vpWz+z0NsYQc7oRXUH+Kf1dU/PQvswqjUg1lk7
+aiOPW+MqfzzdXKJ0BXybG29oXyRTAkaH9dx9/B/0BOUJDql/WEt8g1PUuVV5
+rlWKEoyxDRQbNNm54jCEAkfeE854zge2B6a4ibBn2vC5AZDpGTjapvwnCczm
+zrOE7nlUuUk7ydqM3o40Yvam2ZcjJDBD4E0=
+=mXfV
 -----END PGP SIGNATURE-----
