@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-EXTREMELY IMPORTANT: If you are requesting a key signature and your current physical and/or digital (by VPN or proxy) location is NOT within Canada, The United Kingdom of Great Britain and Northern Ireland, Germany, Australia, New Zealand, or Switzerland, it is required that you encrypt all initial and continuing communication regarding key signing. Encryption is also required if you are utilizing any stationary or mobile connection that is (or has ever been) used for national civil or defence purposes, regardless of your location within or outside of the administered borders of the mentioned locations.
+EXTREMELY IMPORTANT: If you are requesting a key signature and your current physical location is NOT within Canada, The United Kingdom of Great Britain and Northern Ireland, Germany, Australia, New Zealand, or Switzerland, it is required that you encrypt all initial and continuing communication regarding key signing. Encryption is also required if you are utilizing any stationary or mobile connection that is (or has ever been) used for national civil or defence purposes, regardless of your location within or outside of the administered borders of the mentioned locations.
 
 This message has been signed https://yosefgamble.com/signed.txt.Please verify that the signature is valid with my public key.
 
@@ -67,23 +67,22 @@ Copies of verified government documents will be destroyed once the investigation
 I currently do not support PayPal verification.
 
 Inspired by Aaron Toponce.
-
 -----BEGIN PGP SIGNATURE-----
 Version: Cyph
 Comment: https://www.cyph.com
 
-wsFzBAEBCgAGBQJiY8wWACEJEMxlbw7+ZpXOFiEEJWEGFW0Wi7DcSPFjzGVv
-Dv5mlc7QOg//Tij9hSMK0jAqQmZK7wFmiHFAsMPUYdTqb8QTP5JgJSAyIqoT
-Y/fVkg79tvy+wgWlUWEPM2Z45+5rLZwM2k4kX6pGknhcuiyppF0rRLMomV8t
-rxoIzgJNz3Xa6nbAPVyk2UMsWw6NBXH6GWHyW+p6YgImSABVMNf3IPB9ko5+
-+eAaSQtgoSkZvpRNTrJCvibj8OZiwfgZNNWixQb/7y/7WoO1QnVTZ+5tSgW6
-wcuL3Kgt+7Dqv14vsDVxAOLswTcjD/XO2QCaieYprjgoKltXaDPhWcpi6Klu
-821bRPFfpaYP4bhoMgknnmkHOKHiWlAjO4AA+KON6sR6Pdd4N/c3OqyLQZqK
-grf0ohzovnL5jaLgvd1np554b9vVUjdT165zsmqIb0I8LwLc8QgTDztdwPdP
-4x1ZmXSor66P9gTkqBQlznKoLDTtN8/LsujKxkAMwa0QPaHClSaaL/wQuXpA
-atLHGyrarEQUG3m+UbThAS8f9fjpenlIiHHUisP+zsR19hcruX2/da3jf6um
-tl2396y2M7aY+sFbw6/N9NTXIpx1XgDO8Gzq7b93+il06MAn4uE1h1+sbiEZ
-yySCpTaSTyAjM2XpcSG1ag3fydxL4ikeCmM6WfmZoWFz+DCpXnP/vONJ1epz
-166TUzBercZf4oZ+Q1xZDwXTQwu38tVAMds=
-=pyAO
+wsFzBAEBCgAGBQJiY9LGACEJEMxlbw7+ZpXOFiEEJWEGFW0Wi7DcSPFjzGVv
+Dv5mlc4ERQ/6A0MqLb49yoWMLAXN9wvhFuBem+eWq00BOU3XY6+zJfNwiuXp
+fySdeXvRVfiFNtsmjpG+0RN4EssuypsX5VPV6TGvW4B4k6vdS2Ai9tFJya97
+X+3aZ5nqTgnMOXPgbzx5I6yLhF9oFe6HGPS99v6Gl7C2PwHGGvN3HEc+tbY6
+OJcWZDNU1jMW/J70TpL7SF2g0dCgWI9V/BrZxxLvyTPEOjPe9DHBjJNMLa1e
+2xf1Uq6ZG+vIJrduBPi/GTbt/wx8RZ2gc/7dZ4LEj4clzGzp2O9XVQtaN0RN
+E0+ha07bks6W10H1bUGaN74lYE9XT14Fd4q3eP6yo4WeSGHOKMTWJpvakDb1
+bzQEhUGB9EJWsB4kN+U2DYCF/wk0R1q6YS8LNUQJaNdzles7F4DYbBzukq0i
+Hi/Bn8PeUJf7/pCCQb3Al0CWvuJjBGsltnVGv5HWD+E9Jlay+QTZHoXaZSpM
+ZxRlOxm3kNpbuZNagfPgWuf2ilkToW+b8yIr7LhUA0sCDs2N5uZGZdQwlLZi
+1d57ZYe388LA7GjQrEOVi67ipxIFdWjiG6AvXUl0rRIGwIMyRSalLEzr6lE3
+DKpcojTbEiiIF3iCdfORxPVfXzJQ55OtFeNXIGaBw6uziaNEpisvnMMTDZU1
+T9mbjCSPAjxnx0SmSSq5FLEhs0HtZTHAYkA=
+=CcrX
 -----END PGP SIGNATURE-----
