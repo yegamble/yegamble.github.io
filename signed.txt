@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-EXTREMELY IMPORTANT: If you are requesting a key signature and your current physical location is NOT within Canada, The United Kingdom of Great Britain and Northern Ireland, Germany, Australia, New Zealand, or Switzerland, it is required that you encrypt all initial and continuing communication regarding key signing. Encryption is also required if you are utilizing any stationary or mobile connection that is (or has ever been) used for national civil or defence purposes, regardless of your location within or outside of the administered borders of the mentioned locations.
+EXTREMELY IMPORTANT: If you are requesting a key signature and your current physical location is NOT within Canada, The United Kingdom of Great Britain and Northern Ireland, Germany, Australia, New Zealand, or Switzerland, it is required that you encrypt all initial and continuing communication regarding key signing. Encryption is also required if you are utilizing any stationary or mobile connection that is (or has ever been) used for civilian government or defence purposes, regardless of your location within or outside of the administered borders of the mentioned locations.
 
 This message has been signed https://yosefgamble.com/signed.txt.Please verify that the signature is valid with my public key.
 
@@ -71,18 +71,18 @@ Inspired by Aaron Toponce.
 Version: Cyph
 Comment: https://www.cyph.com
 
-wsFzBAEBCgAGBQJiY9LGACEJEMxlbw7+ZpXOFiEEJWEGFW0Wi7DcSPFjzGVv
-Dv5mlc4ERQ/6A0MqLb49yoWMLAXN9wvhFuBem+eWq00BOU3XY6+zJfNwiuXp
-fySdeXvRVfiFNtsmjpG+0RN4EssuypsX5VPV6TGvW4B4k6vdS2Ai9tFJya97
-X+3aZ5nqTgnMOXPgbzx5I6yLhF9oFe6HGPS99v6Gl7C2PwHGGvN3HEc+tbY6
-OJcWZDNU1jMW/J70TpL7SF2g0dCgWI9V/BrZxxLvyTPEOjPe9DHBjJNMLa1e
-2xf1Uq6ZG+vIJrduBPi/GTbt/wx8RZ2gc/7dZ4LEj4clzGzp2O9XVQtaN0RN
-E0+ha07bks6W10H1bUGaN74lYE9XT14Fd4q3eP6yo4WeSGHOKMTWJpvakDb1
-bzQEhUGB9EJWsB4kN+U2DYCF/wk0R1q6YS8LNUQJaNdzles7F4DYbBzukq0i
-Hi/Bn8PeUJf7/pCCQb3Al0CWvuJjBGsltnVGv5HWD+E9Jlay+QTZHoXaZSpM
-ZxRlOxm3kNpbuZNagfPgWuf2ilkToW+b8yIr7LhUA0sCDs2N5uZGZdQwlLZi
-1d57ZYe388LA7GjQrEOVi67ipxIFdWjiG6AvXUl0rRIGwIMyRSalLEzr6lE3
-DKpcojTbEiiIF3iCdfORxPVfXzJQ55OtFeNXIGaBw6uziaNEpisvnMMTDZU1
-T9mbjCSPAjxnx0SmSSq5FLEhs0HtZTHAYkA=
-=CcrX
+wsFzBAEBCgAGBQJiZRkrACEJEMxlbw7+ZpXOFiEEJWEGFW0Wi7DcSPFjzGVv
+Dv5mlc4dRQ//cs4JbwNuPqqs0nrWJI8VSOprWXufMax7WqqCGhKLQUfLIMEg
+v6XQNoNLUnl4Cu/EUGQuzBQWbQw7aoKjFMqQZ1fS6hAsKmBXzaOCdg7gmWji
+YdlV3qkn8w+RCmqRM0f2NoGUUJzBqOAHG1FdCdCGB2m3KuiiVe9gD8PbSFAD
+/M4JI5djM3Cehg8clD7OMFyu5+wp2kfw++XzpdyCLMqOSF6WnUuNlZBfhfRW
+LvGsxV5pYGWU/pV8Ja2fxg88HXczKrBAoAs6EKzie0g4g0wrxoBE5drAnIXC
+wFUOew1f1R+iT1lHOrOXtnKEjCNzqc31cuFOsZBAv9WBZpGTCd8cV43g2dnz
+oBBXE9ROuqgiRbVzD37FfetmAkgVQnzX+oQqoOISOyyWHnLWLBY/tWqwV0+4
++zfkUV3Dv9Tuo/SMD6l60uV+CfpBViK4mqHIPROuJJcbDbJEdofXAHRLiuSP
+lR7PNwAuvOrTT1+uPqUw1nBa1twdde/ulY3S0CKtjyuxQygQgdAf+iXUlO+2
+PN9xa3Ez0Y0X0FJUu9hXjvOgQGI2phLdLUnKOMU611Efm7NyMwa0L4r1QnxV
+K9WwF2mk4qQ/hakCxWJUSmPCuvQNiUqhSWkAazvNAZUnvFPBKKXQBiWj+btN
+hNrVql7PL8QQ0DXWhIOqA3nfhZAC63H4MHw=
+=ySn3
 -----END PGP SIGNATURE-----
